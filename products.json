@@ -1,0 +1,68 @@
+{   
+    "items":[
+        {
+            "sys":{"id":1},
+            "fields":{
+                "tittle": "Python Programming MasterCourse",
+                "price":123.55,
+                "image":{"fields":{"file":{"url":"images/images.jfif"}}}
+            }
+        },
+        {
+            "sys":{"id":2},
+            "fields":{
+                "tittle": "C++ MasterCourse",
+                "price":100.55,
+                "image":{"fields":{"file":{"url":"images/C++.png"}}}
+            }
+        },
+        {
+            "sys":{"id":3},
+            "fields":{
+                "tittle": "Web Developement For Beginners",
+                "price":12.55,
+                "image":{"fields":{"file":{"url":"images/webdev2.png"}}}
+            }
+        },
+        {
+            "sys":{"id":4},
+            "fields":{
+                "tittle": "Java Progrmmming MasterCourse",
+                "price":149.55,
+                "image":{"fields":{"file":{"url":"images/Java.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":5},
+            "fields":{
+                "tittle": "Digital Marketing Full Course",
+                "price":120,
+                "image":{"fields":{"file":{"url":"images/digitalMarketing.png"}}}
+            }
+        },
+        {
+            "sys":{"id":6},
+            "fields":{
+                "tittle": "Advanced Web Developement",
+                "price":200.50,
+                "image":{"fields":{"file":{"url":"images/Adv_web.jfif"}}}
+            }
+        },
+        {
+            "sys":{"id":7},
+            "fields":{
+                "tittle": "Data Structure Full Course",
+                "price":100,
+                "image":{"fields":{"file":{"url":"images/datastructure.png"}}}
+            }
+        },
+        {
+            "sys":{"id":8},
+            "fields":{
+                "tittle": "Data Science Full Course",
+                "price":149.80,
+                "image":{"fields":{"file":{"url":"images/dataScience.WEBP"}}}
+            }
+        }
+    ]
+}
